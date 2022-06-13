@@ -1,0 +1,1 @@
+Welcome to azure storage service with java
